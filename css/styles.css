@@ -1,0 +1,158 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+font-size: 5.5rem;
+}
+
+h2{
+  font-family: 'Arvo', serif;
+  font-size: 2.2rem;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Arvo', serif;
+  font-size: 1.7rem;
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.3rem;
+  line-height: 125%;
+}
+
+hr{
+  border: none;
+  border-top: dotted 10px;
+  color: #AAD8D3;
+  margin:0 auto 0;
+  width: 4%;
+}
+
+a{
+  color: #393E46;
+}
+
+
+/************* CLASS SELECTORS *************/
+
+.title{
+  font-family: 'Kaushan Script', cursive;
+  margin-bottom: 25px;
+  margin-top: 0;
+;
+}
+
+.txt1{
+  color: #393E46;
+  display: inline-block;
+  width: 35%
+}
+
+.txt2{
+  color: #00ADB5;
+}
+
+.txt4{
+  color: #EEEEEE;
+}
+
+.txt5{
+  color: #EEEEEE;
+  text-decoration: none;
+}
+
+.txt5:hover{
+  color: #00ADB5;
+}
+
+.introduction {
+  background-color: #AAD8D3;
+  margin: 0;
+  padding-top: 120px;
+}
+
+.mid{
+  background-color: #EEEEEE;
+  padding-top: 20px;
+}
+
+.contact-me{
+  background-color: #EEEEEE;
+  margin: 0;
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+.bot{
+  background-color: #393E46;
+  margin:0;
+  padding-bottom: 10px;
+  padding-top: 40px;
+}
+
+.profile{
+  padding-bottom: 40px;
+}
+
+.skills{
+  padding-bottom: 40px;
+  padding-top: 30px;
+}
+
+.skill-row{
+  margin: 70px auto 0;
+  text-align: left;
+  width: 50%;
+}
+
+.main{
+  margin: 20px auto;
+  width: 31.2%;
+}
+
+.secondary{
+  position: absolute;
+  width : 20%;
+}
+
+.rocket{
+  right: 8%;
+  top: 40px;
+}
+
+.rct{
+  left: 7%;
+  top: 200px;
+}
+
+
+.gif1{
+  float: left;
+  margin-right: 30px;
+  width:20%;
+}
+
+.gif2{
+  float:right;
+  margin-left: 30px;
+  width:20%;
+}
+
+.btn {
+  background: #AAD8D3;
+  border-radius: 20px;
+  color: #393E46;
+  font-family: 'Arvo', serif;
+  font-size: 20px;
+  padding: 6px 14px 6px 14px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #00ADB5;
+  text-decoration: none;
+}
